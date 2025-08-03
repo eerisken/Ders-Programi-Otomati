@@ -2,6 +2,8 @@
 
 Bu depo, Windows platformu için **.NET** ile geliştirilen ücretsiz bir **okul ders programı hazırlayıcısını** içerir. Uygulama, öğretmen ve sınıf bilgilerinden yola çıkarak en uygun ders çizelgesini otomatik olarak üretir.
 
+"ders-programi-python" dizininde ise 3 derslikli örnek bir Lise'nin ders programının PYTHON dili ve Google-Ortools python package'ı kullanarak hazırlandığı bir örnek bulmak mümkün...  
+
 ---
 
 ## 🚀 Özellikler
